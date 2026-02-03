@@ -1,4 +1,4 @@
-# Moving_averages_strategy_and_backtest
+# Simple moving averages strategy and backtest
 This project presents a **simple moving average crossover strategy** applied to a single equity asset, **Apple Inc. (AAPL)**. The strategy is implemented and backtested using the **zipline-reloaded** library, producing performance metrics and visualizations over a specified historical period.
 
 
